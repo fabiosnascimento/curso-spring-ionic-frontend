@@ -1,4 +1,3 @@
-import { LOCALE_DATA } from "@angular/common/src/i18n/locale_data";
 import { Injectable } from "@angular/core";
 import { STORAGE_KEYS } from "../config/storage_keys.config";
 import { Cart } from "../models/cart";

@@ -1,6 +1,5 @@
 import { HttpHandler, HttpInterceptor, HttpRequest, HttpEvent, HTTP_INTERCEPTORS } from "@angular/common/http";
 import { Injectable } from "@angular/core";
-import { Console } from "@angular/core/src/console";
 import { AlertController } from "ionic-angular/components/alert/alert-controller";
 import { Observable } from "rxjs/Rx";
 import { FieldMessage } from "../models/fieldmessage";
