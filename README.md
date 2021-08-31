@@ -9,11 +9,8 @@ A aplicação consiste gerar pedidos como em um aplicativo de comércio eletrôn
 
 ## Layout
 
-<img src=https://github.com/fabiosnascimento/assets/blob/master/ionic1.png alt="drawing" width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic2.png alt="drawing" width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic3.png alt="drawing" width="300"/> 
-
-<img src=https://github.com/fabiosnascimento/assets/blob/master/ionic4.png alt="drawing" width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic8.png alt="drawing" width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic6.png alt="drawing" width="300"/>
-
-<img src=https://github.com/fabiosnascimento/assets/blob/master/ionic7.png alt="drawing" width="300"/>
+<img src=https://github.com/fabiosnascimento/assets/blob/master/ionic1.png width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic2.png width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic3.png width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic4.png width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic8.png width="300"/> <img src=https://github.com/fabiosnascimento/assets/blob/master/ionic6.png width="300"/>
+<img src=https://github.com/fabiosnascimento/assets/blob/master/ionic7.png width="300"/>
 
 # Tecnologias utilizadas
 ## Back end
@@ -25,7 +22,7 @@ A aplicação consiste gerar pedidos como em um aplicativo de comércio eletrôn
 - Amazon S3
 
 ## Front End
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / TypeScript
 - IONIC
 
 ## Implantação em produção
