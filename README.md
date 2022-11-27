@@ -21,14 +21,11 @@ A aplicação consiste gerar pedidos como em um aplicativo de comércio eletrôn
 - JWT
 - Amazon S3
 
+- Banco de dados: MySql
+
 ## Front End
 - HTML / CSS / TypeScript
 - IONIC
-
-## Implantação em produção
-- Back end: Heroku
-- Banco de dados: MySql
-
 
 
 # Autor
